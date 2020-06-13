@@ -1,0 +1,6 @@
+dbUser
+dbPassword123
+s
+
+
+mongodb+srv://dbUser:<password>@jira02-jujwz.mongodb.net/<dbname>?retryWrites=true&w=majority
