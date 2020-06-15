@@ -17,16 +17,8 @@ router.post('/',[
    if(!errors.isEmpty()){
        return res.status(400).json({errors:errors.array()})
    }
-   //res.send('passed')
-   const {name,email,password} = req.body;
-
-   try{
-       let user = await User.findOne({ email })
-
-   } catch(err){
-
-   }
-
+   res.send('passed')
+  
 });
 
 module.exports = router;
