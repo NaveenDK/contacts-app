@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://dbUser:dbPassword123@jira02-jujwz.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://dbUser:dbPassword123@jira02-jujwz.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
 }
