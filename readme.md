@@ -4,3 +4,4 @@ git cBranches
 2. mongodb-insert-b4 (code b4 - we can insert users to mongodb after basic validations done)
 3. b4-the-jsonwebtoken
 4. authenticate-route
+5. b4-auth-middleware-n-protecting-routes
